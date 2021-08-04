@@ -1,2 +1,2 @@
-# LetsUpgrade-RWD-Day3
+LetsUpgrade Responsive Web Design Essentials
 LetsUpgrade-RWD-Day3
