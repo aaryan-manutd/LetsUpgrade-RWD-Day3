@@ -1,2 +1,2 @@
 LetsUpgrade Responsive Web Design Essentials
-LetsUpgrade-RWD-Day3
+Day 3 Assignment
